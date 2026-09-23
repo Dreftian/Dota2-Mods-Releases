@@ -63,7 +63,9 @@ Abre un [issue](https://github.com/Dreftian/Dota2-Mods-Releases/issues) con la v
 
 ## Licencia y créditos
 
-Mod Assistant es software libre bajo la [GNU GPL v3.0 o posterior](LICENSE) y deriva de un proyecto de código abierto con la misma licencia. Cada versión publicada incluye su código fuente completo. Los mods del catálogo pertenecen a sus autores.
+Mod Assistant es una **versión modificada de [Dota 2 Mod Manager](https://github.com/TheFleece/dota2-mod-manager)**, creado por **TheFleece** (Copyright (C) 2026 TheFleece) y publicado bajo la GNU GPL v3.0 o posterior. Dreftian Devs la modifica desde el 20 de septiembre de 2026; no es el programa original. El aviso de autoría original está en la aplicación, en Configuración, sección "Acerca de".
+
+Es software libre bajo la [GNU GPL v3.0 o posterior](LICENSE), con los términos adicionales del archivo NOTICE del autor original. Cada versión publicada incluye su código fuente completo. Los mods, vistas previas y guías del catálogo vienen del repositorio [D2PFX](https://github.com/h6rd/Dota2PornFxWeb) de h6rd y pertenecen a sus autores.
 
 Dota 2 es una marca registrada de Valve Corporation. Este proyecto no está afiliado, respaldado ni patrocinado por Valve.
 
@@ -80,5 +82,5 @@ This repository holds the **builds** and the **source code of every release**. I
 - [Download the installer](https://github.com/Dreftian/Dota2-Mods-Releases/releases/latest/download/Dota2-Mod-Setup.exe) or the [portable build](https://github.com/Dreftian/Dota2-Mods-Releases/releases/latest/download/Dota2.Mod.exe). Windows 10/11 x64.
 - If SmartScreen warns, the executable is not code-signed yet: **More info → Run anyway**.
 - Every write to the game folder is one transaction that rolls back on failure; nothing is written while Dota runs; originals are backed up; nothing is collected. Mods change only what your own client draws. Use them at your own discretion.
-- Licensed under the GPL-3.0-or-later; each release ships its complete source archive.
+- A modified version of [Dota 2 Mod Manager](https://github.com/TheFleece/dota2-mod-manager) by TheFleece (Copyright (C) 2026 TheFleece), changed by Dreftian Devs since 20 September 2026 - not the original program. Licensed under the GPL-3.0-or-later with the original NOTICE terms; each release ships its complete source archive. Catalog content comes from h6rd's [D2PFX](https://github.com/h6rd/Dota2PornFxWeb) and its authors.
 - Dota 2 is a trademark of Valve Corporation. Not affiliated with or endorsed by Valve.
